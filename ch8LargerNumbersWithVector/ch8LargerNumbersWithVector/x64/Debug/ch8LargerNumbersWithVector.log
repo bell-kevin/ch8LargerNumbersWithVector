@@ -1,0 +1,3 @@
+﻿  ch8LargerNumbersWithVector.cpp
+C:\Users\4800590195\source\repos\ch8LargerNumbersWithVector\ch8LargerNumbersWithVector\Vector.h(15,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ch8LargerNumbersWithVector.vcxproj -> C:\Users\4800590195\source\repos\ch8LargerNumbersWithVector\x64\Debug\ch8LargerNumbersWithVector.exe
