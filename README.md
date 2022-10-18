@@ -4,11 +4,11 @@ This project is very similar to the first one, except it uses a vector instead o
 
 Example of the result with valid input:
 
-Ch 8 Proj2
+![Ch 8 Proj2](https://github.com/bell-kevin/ch8LargerNumbersWithVector/blob/main/ch8LargerNumbersWithVector/vector.PNG)
 
 Example of the result with invalid input:
 
-Ch 8 Proj2 errors
+![Ch 8 Proj2 errors](https://github.com/bell-kevin/ch8LargerNumbersWithVector/blob/main/ch8LargerNumbersWithVector/vectorInputValidation.PNG)
 
 Take screenshots similar to those seen here, one with no errors in input, one with errors in input.
 
